@@ -2,4 +2,4 @@
 all: build-template
 
 build-template:
-	docker build -t faas-flow:test template/faas-flow
+	docker build -t faas-flow-dim:test template/faas-flow-dim
